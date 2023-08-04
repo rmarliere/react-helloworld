@@ -18,5 +18,10 @@
     "react-dom": "^15.1.0",
     "webpack": "^1.13.1",
     "webpack-dev-server": "^1.14.1"
+  },
+  "platform-devops": {
+    "node_version": "16.18.2",
+    "build_tool": "npm",
+    "build_tool_version": "8.19.2"
   }
 }
